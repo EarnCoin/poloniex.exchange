@@ -6,8 +6,6 @@
 (手機點不開的話可以用電腦)
 然後按註冊
 <img src="https://imgur.com/X8i9TcO.jpg" />
-然後按註冊
-<img src="https://imgur.com/KA36wBg.jpg" />
 <img src="https://imgur.com/yFIFuPD.jpg" />
 
 2.去下載Google Authenticator 這個APP<br />
