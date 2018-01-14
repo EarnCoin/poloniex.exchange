@@ -1,7 +1,6 @@
 # bitpoint 幣寶
 
 
-			<div class="container">
 				<div class="row">
 					<div class="col col-xs-12">
 						<h3>現貨交易</h3>
