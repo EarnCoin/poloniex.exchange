@@ -1,4 +1,5 @@
 # bitpoint 幣寶
+## BITPoint日台合資「BITPoint Taiwan」交易所成立　 台灣邁向虛擬加密貨幣投資的全新里程
 <section>
 				<div class="row">
 					<div class="col col-xs-12">
@@ -132,3 +133,4 @@
 			</div>
 </section>
 來源:https://www.bitpoint-tw.com/guide
+新聞：https://www.thenewslens.com/article/87506
