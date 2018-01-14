@@ -40,8 +40,7 @@
 								<td>2018年2月18日</td>
 							</tr>
 						</tbody></table>			
-			</div>
-</section>		
+			</div>		
 			<div class="container">
 				<div class="row">
 					<div class="col col-xs-12">
@@ -65,7 +64,6 @@
 								<td>免費</td>
 							</tr>
 						</tbody></table>
-
 						<h5 class="header-fill">出入金手續費</h5>
 						<table class="table-all-center">
 							<tbody><tr>
@@ -94,7 +92,6 @@
 								<td>免費</td>
 							</tr>
 						</tbody></table>
-
 						<h5 class="header-fill">平台服務費</h5>
 						<table class="table-all-center">
 							<tbody><tr>
@@ -106,7 +103,6 @@
 								<td>1%</td>
 							</tr>
 						</tbody></table>
-
 						<h5 class="header-fill">收發手續費</h5>
 						<table class="table-all-center">
 							<tbody><tr>
@@ -134,4 +130,5 @@
 					</div>
 				</div>
 			</div>
+</section>
 來源:https://www.bitpoint-tw.com/guide
