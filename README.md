@@ -1,5 +1,6 @@
 # bitpoint 幣寶
-## BITPoint日台合資「BITPoint Taiwan」交易所成立　 台灣邁向虛擬加密貨幣投資的全新里程
+## BITPoint日台合資「BITPoint Taiwan」交易所成立
+### 需要身份證明文件(身分證跟賬單地址)需要做開啟綜合帳戶使用
 <section>
 				<div class="row">
 					<div class="col col-xs-12">
