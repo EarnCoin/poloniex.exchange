@@ -1,137 +1,96 @@
-# bitpoint 幣寶
-## BITPoint日台合資「BITPoint Taiwan」交易所成立
-### 需要身份證明文件(身分證跟賬單地址)需要做開啟綜合帳戶使用
-<section>
-				<div class="row">
-					<div class="col col-xs-12">
-						<h3>現貨交易</h3>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col col-xs-12">
-						<h5 class="header-fill">交易種類</h5>
-						<table class="table-all-center">
-							<tbody><tr>
-								<th>貨幣對</th>
-								<th>貨幣代碼</th>
-								<th>服務開始日期</th>
-							</tr>
-							<tr>
-								<td>比特幣/新台幣</td>
-								<td>BTC/TWD</td>
-								<td>2018年1月15日</td>
-							</tr>
-							<tr>
-								<td>比特幣現金/新台幣</td>
-								<td>BCC/TWD</td>
-								<td>2018年1月15日</td>
-							</tr>
-							<tr>
-								<td>乙太幣/新台幣</td>
-								<td>ETH/TWD</td>
-								<td>2018年1月15日</td>
-							</tr>
-							<tr>
-								<td>萊特幣/新台幣</td>
-								<td>LTC/TWD</td>
-								<td>2018年1月15日</td>
-							</tr>
-							<tr>
-								<td>瑞波幣/新台幣</td>
-								<td>XRP/TWD</td>
-								<td>2018年2月18日</td>
-							</tr>
-						</tbody></table>			
-			</div>		
-			<div class="container">
-				<div class="row">
-					<div class="col col-xs-12">
-						<h3>手續費及管理費</h3>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col col-xs-12 col-sm-6">
-						<h5 class="header-fill">帳戶管理費</h5>
-						<table class="table-all-center">
-							<tbody><tr>
-								<th style="width:50%">項目</th>
-								<th style="width:50%">手續費</th>
-							</tr>
-							<tr>
-								<td>開戶申請費用</td>
-								<td>免費</td>
-							</tr>
-							<tr>
-								<td>帳戶管理費</td>
-								<td>免費</td>
-							</tr>
-						</tbody></table>
-						<h5 class="header-fill">出入金手續費</h5>
-						<table class="table-all-center">
-							<tbody><tr>
-								<th style="width:50%">項目</th>
-								<th style="width:50%">手續費</th>
-							</tr>
-							<tr>
-								<td>台幣（TWD）入金（充值）</td>
-								<td>客戶支付<br>（客戶銀行匯款手續費）</td>
-							</tr>
-							<tr>
-								<td>台幣（TWD）出金（提現）</td>
-								<td>幣寶支付<br>（銀行匯款手續費）</td>
-							</tr>
-						</tbody></table>
-					</div>
-					<div class="col col-xs-12 col-sm-6">
-						<h5 class="header-fill">交易手續費</h5>
-						<table class="table-all-center">
-							<tbody><tr>
-								<th style="width:50%">項目</th>
-								<th style="width:50%">手續費</th>
-							</tr>
-							<tr>
-								<td>現貨交易</td>
-								<td>免費</td>
-							</tr>
-						</tbody></table>
-						<h5 class="header-fill">平台服務費</h5>
-						<table class="table-all-center">
-							<tbody><tr>
-								<th style="width:50%">項目</th>
-								<th style="width:50%">手續費</th>
-							</tr>
-							<tr>
-								<td>現貨交易</td>
-								<td>1%</td>
-							</tr>
-						</tbody></table>
-						<h5 class="header-fill">收發手續費</h5>
-						<table class="table-all-center">
-							<tbody><tr>
-								<th style="width:50%">項目</th>
-								<th style="width:50%">手續費</th>
-							</tr>
-							<tr>
-								<td>接收加密貨幣（接收）</td>
-								<td>免費</td>
-							</tr>
-							<tr>
-								<td>發送加密貨幣（發送）</td>
-								<td>免費</td>
-							</tr>
-						</tbody></table>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col col-xs-12">
-						<div class="note">
-							<ul>
-								<li>手續費和服務費日後有可能會做變更。</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-</section>
-來源:https://www.bitpoint-tw.com/guide<br/>
-新聞：https://www.thenewslens.com/article/87506
+# Poloniex
+<div class="t_fsz text">
+<table cellspacing="0" cellpadding="0" width="100%" class="mt20"><tbody><tr><td class="t_f" id="postmessage_823464">
+<font color="#333333"><font face="&amp;quot;"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Poloniex是美國的數字貨幣交易所，是一個交易量大、幣種多且比較正規的交易平台，網站全英文，但操作比較簡單，</font></font></font></font></font><font style="color:rgb(171, 25, 66)"><font face="&amp;quot;"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">註冊需要科學的上網</font></font></font></font></font><font color="#333333"><font face="&amp;quot;"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></font></font></font><font face="Helvetica Neue, Helvetica, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif"><font color="#333333"><font style="font-size:15px"><br>
+</font></font></font><br>
+<br>
+<font color="#333333"><font face="&amp;quot;"><font style="font-size:15px"><hr class="l"><br>
+</font></font></font><br>
+<br>
+<strong><font size="5"><font color="#2e8b57"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">註冊</font></font></font></font></strong><br>
+<font color="#3e3e3e"><font face="&amp;quot;"><font style="font-size:16px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1.打開p </font></font></font></font></font><font style="color:rgb(51, 51, 51)"><font face="&amp;quot;"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">oloniex.com，選擇“Create Your Account”按鈕開始創建賬號。</font></font></font></font></font><font style="vertical-align: inherit;"><font style="color:rgb(51, 51, 51)"><font face="&amp;quot;"><font size="2"><font style="vertical-align: inherit;">▲ poloniex.com主界面</font></font></font></font></font><br>
+<font style="color:rgb(51, 51, 51)"><font face="&amp;quot;"><font style="font-size:15px"><br>
+</font></font></font><br>
+<font style="color:rgb(51, 51, 51)"><font face="&amp;quot;"><font style="font-size:15px"><img id="aimg_QELYe" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0Orvm8gsvnpLnvcFOIQz8YNfRlicMoUUCkg06MLpOkyrktiaXDXNDE8Z6OOg/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0Orvm8gsvnpLnvcFOIQz8YNfRlicMoUUCkg06MLpOkyrktiaXDXNDE8Z6OOg/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" style="" _load="1" width="640" height="343"></font></font></font><br>
+<font style="color:rgb(51, 51, 51)"><font face="&amp;quot;"><font size="2"><font style="vertical-align: inherit;"></font></font></font></font><font color="#001000"><font size="2"><br>
+</font></font><font face="&amp;quot;"><div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.填入註冊信息，此處假設用</font></font><a href="mailto:btc2100@outlook.com" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">btc2100@outlook.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演示註冊。</font></font></font></font></div><div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_tWRfE" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvqzZZia17YCXHHSnoYsYnhTGbDPN9R8p0LicOeIcxiahrT38HLicB93OERw/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvqzZZia17YCXHHSnoYsYnhTGbDPN9R8p0LicOeIcxiahrT38HLicB93OERw/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" style="" _load="1" width="640" height="511"></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 註冊界面</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3.註冊後提示驗證郵件</font></font></font></font></div><div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_YCyL1" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvFxERicEfHFk6aqTZsucrQaFqTUbhS1vGzLTdxicOcU5AIn4M9o9FFETQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvFxERicEfHFk6aqTZsucrQaFqTUbhS1vGzLTdxicOcU5AIn4M9o9FFETQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" style="" _load="1" width="640" height="199"></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 註冊完成提示</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4.在郵箱中完成驗證操作</font></font></font></font></div><div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_vJyNJ" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvT5yZErI8BjRmmCP82yenrjK8jSrBTxSLdEB0hicfo5L6y6vnyIVSAvw/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvT5yZErI8BjRmmCP82yenrjK8jSrBTxSLdEB0hicfo5L6y6vnyIVSAvw/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" style="" _load="1" width="640" height="333"></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 郵箱驗證界面</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意：</font></font></strong></font></font></div><div align="left"><font style="font-size:15px"><font color="#333333"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&nbsp; &nbsp; 如果收件箱中沒有找到郵件，</font></font></font><font color="#8b0000"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">檢查垃圾箱，防止郵件被過濾。</font></font></font></font></div><br>
+<br>
+<br>
+<strong><font size="5"><font color="#2e8b57"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">登陸和認證</font></font></font></font></strong><div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1.點擊右上角“Sign in”按鈕，或者打開</font></font><a href="https://poloniex.com/login" target="_blank" class="gj_safe_a"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://poloniex.com/login</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，進行登陸操作。</font></font></font></font></div><div align="left">
+<ignore_js_op>
+
+<div class="mbn">
+<img alt="【操作指南】一分鐘教你註冊P網（Poloniex）" id="aimg_237440" aid="237440" src="data/attachment/forum/201709/15/091046tz0u33fpss3u3shi.png" zoomfile="data/attachment/forum/201709/15/091046tz0u33fpss3u3shi.png" file="data/attachment/forum/201709/15/091046tz0u33fpss3u3shi.png" class="zoom" onclick="zoom(this, this.src, 0, 0, 0)" width="660" inpost="1" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" lazyloaded="true" _load="1" initialized="true" style="">
+
+</div>
+
+<div class="tip tip_4 aimg_tip" id="aimg_237440_menu" style="position: absolute; z-index: 301; left: 109.5px; top: 2503px; display: none;" disautofocus="true" initialized="true">
+<div class="xs0">
+<p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">微信截圖_20170915091030.png </font></font></strong> <em class="xg1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(180.06 KB,下載次數: 0)</font></font></em></p>
+<p>
+<a href="http://8btc.com/forum.php?mod=attachment&amp;aid=MjM3NDQwfDkyMDU0YmQ4fDE1MTU4OTI2ODd8MHw3NDYwOA%3D%3D&amp;nothumb=yes" target="_blank" class="gj_safe_a"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下載附件</font></font></a>
+
+&nbsp;<a href="javascript:;" onclick="showWindow(this.id, this.getAttribute('url'), 'get', 0);" id="savephoto_237440" url="home.php?mod=spacecp&amp;ac=album&amp;op=saveforumphoto&amp;aid=237440&amp;handlekey=savephoto_237440"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">保存到相冊</font></font></a>
+
+</p>
+
+<p class="xg1 y"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2017-9-15 09:10 上傳</font></font></p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+
+</ignore_js_op>
+<br>
+</div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 登陸界面</font></font></font></font></div><br>
+<div align="left"><font style="font-size:15px"><font color="#333333"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.登陸成功後，會提示認證，</font></font></font><font color="#8b0000"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果不進行認證，賬戶的可操作餘額為0，即無法進行交易。</font><font style="vertical-align: inherit;">而如果認證成功後，每天充值提現代幣的額度可以提升到到25000USD。</font></font></font><br>
+</font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_ZQG6l" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvwttbTZ2bm3fFUdt2NBTyfsSU88AvZnL41ib4eDapJy5E90NSWCPHxZQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvwttbTZ2bm3fFUdt2NBTyfsSU88AvZnL41ib4eDapJy5E90NSWCPHxZQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" style="" _load="1" width="640" height="850"></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 身份驗證界面</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意：</font></font></strong></font></font></div><div align="left"><font style="font-size:15px"><font color="#333333"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&nbsp; &nbsp; 身份認證信息需要英文，以下是一個認證的例子，</font></font></font><font color="#8b0000"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">假設認證人為王小六，住在騰訊大廈，那麼認證的信息為：</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_M4U3S" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrveBC1wiaVrIk4QBA45xtEnSTw4SZj9JxHy0cLaYqGwicxSfEia8MiakTlzQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrveBC1wiaVrIk4QBA45xtEnSTw4SZj9JxHy0cLaYqGwicxSfEia8MiakTlzQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" style="" _load="1" width="640" height="877"></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 身份驗證模版</font></font></font></font></div><br>
+<div align="left"><font style="font-size:15px"><font color="#8b0000"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">手持身份證照片，需要同時包含當天日期和POLONIEX的字樣</font></font></font><font color="#333333"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，如下圖所示。</font></font></font></font></div><div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_v2Aoj" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0Orvz2r2uiaMLyDwUPeJtaG3fIeticGLzuoJBxWObSCKibGAITVh6vMG1MicKg/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0Orvz2r2uiaMLyDwUPeJtaG3fIeticGLzuoJBxWObSCKibGAITVh6vMG1MicKg/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" style="" _load="1" width="640" height="522"></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 官方給出的正確示例</font></font></font></font></div><br>
+<div align="left"><font style="font-size:15px"><font color="#333333"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很多人在地址這一欄會被卡住，總是不能通過認證，這裡提供一個竅門，那就是：</font></font></font><font color="#8b0000"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在谷歌裡搜你所在的地址的英文版</font></font></font><font color="#333333"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，然後按照谷歌地圖給出的地址進行填寫，例如，騰訊大廈的英文版地址就是如下圖所示。</font></font></font><font color="#8b0000"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果你填寫的地址比較亂，往往無法通過poloniex的驗證。</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_s8cgg" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvpFZZxqPIliaMU91KDI22jvS9NK0hBYFkT4JJQe3p4CbqEiaNPsjHfdTg/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvpFZZxqPIliaMU91KDI22jvS9NK0hBYFkT4JJQe3p4CbqEiaNPsjHfdTg/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" _load="1" width="640" height="384" style=""></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 谷歌搜索的騰訊大廈的地址</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3.點擊保存信息按鈕，提交資料給網站審核。</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_VONyC" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvsyO0xpgrD0vnRWGInYgNicmaFXtP78EuvIvdYvnHL9rz5EZBVGdl6dQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvsyO0xpgrD0vnRWGInYgNicmaFXtP78EuvIvdYvnHL9rz5EZBVGdl6dQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" _load="1" width="640" height="209" style=""></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 底部提交的界面</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4.認證的時間不固定，快的一兩天就可以認證成功，也有提交認證後一個月都沒審核結果的。</font><font style="vertical-align: inherit;">如果認證成功後，點擊右上角的“MY PROFILE”，即可看到認證通過的信息。</font></font></font></font></div><br>
+</font><font face="&amp;quot;"><div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_EP99v" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvRIO7l4fVD1h7n3XF8iaYMuq5YfZicE3yz9tiaeviav9aV0iaanK62gt8aMQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvRIO7l4fVD1h7n3XF8iaYMuq5YfZicE3yz9tiaeviav9aV0iaanK62gt8aMQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" _load="1" width="632" height="222" style=""></font></font></div><div align="left"><font color="#333333"><font style="color:rgb(51, 51, 51)"><font face="&amp;quot;"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 右上角個人信息菜單</font></font></font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下是認證通過後的示例截圖</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_gfb0c" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0Orvqz4zaWQFNUhEt7VjwJlq3C3r8ZEb0FAIgJESzOTKQ9Vzia1d1oYT65Q/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0Orvqz4zaWQFNUhEt7VjwJlq3C3r8ZEb0FAIgJESzOTKQ9Vzia1d1oYT65Q/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" _load="1" width="640" height="462" style=""></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 認證通過的截圖</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.由於交易所賬戶一般都綁定谷歌二次驗證，所以，這裡也提供綁定谷歌二次驗證的方法。</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通過右上角進入二次驗證的入口。</font></font></font></font></div><div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_rgsa9" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvniaaZxzXYasE6icSDfZicwujeE0nEradgBkLyTIgQicKH56qw8qHygEiabw/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvniaaZxzXYasE6icSDfZicwujeE0nEradgBkLyTIgQicKH56qw8qHygEiabw/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" _load="1" width="636" height="610" style=""></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 右上角二次驗證入口</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">進行常規的二次驗證的綁定操作即可。</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_u0G3k" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvuUScIQvjbYS9lnazV5ibCNHj0JnzqvmJicLWtCmnAS5s0eYQQXbqnxaQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvuUScIQvjbYS9lnazV5ibCNHj0JnzqvmJicLWtCmnAS5s0eYQQXbqnxaQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" _load="1" width="640" height="442" style=""></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 綁定谷歌二次驗證</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">綁定谷歌二次驗證的簡易教程：</font></font></font></font></div><div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_z5Q6q" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvtEyQphMesn2g3R9F4AicmXdxRM41lWMVZia7p62tud2dDGqjGRH5hHgQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvtEyQphMesn2g3R9F4AicmXdxRM41lWMVZia7p62tud2dDGqjGRH5hHgQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" _load="1" width="640" height="680" style=""></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 綁定谷歌二次驗證的簡易教程</font></font></font></font></div><font color="#333333"><font style="color:rgb(51, 51, 51)"><font face="&amp;quot;"><br>
+</font></font></font><br>
+<font color="#333333"><font style="color:rgb(51, 51, 51)"><font face="&amp;quot;"><br>
+</font></font></font><br>
+<br>
+<strong><font size="5"><font color="#2e8b57"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">充值和提現</font></font></font></font></strong><div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1.右上角選擇“BALANCES”下的菜單即可進行沖提幣操作</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_j94O7" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvGDdkImWCA0J590NoIWYqFKic3nP6ukvhmKCGngo9dmdaK59TXDYLXlQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvGDdkImWCA0J590NoIWYqFKic3nP6ukvhmKCGngo9dmdaK59TXDYLXlQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" _load="1" width="640" height="246" style=""></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 進入充值和提現的界面</font></font></font></font></div><br>
+<div align="left"><font style="font-size:15px"><font color="#333333"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.如果</font></font></font><font color="#8b0000"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通過身份驗證，就可以獲得每天25000美元等值的衝提限額進行沖提幣操作，否則無法充值和提現。</font></font></font><font color="#333333"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">選擇相應的幣種，就可以進行沖提。</font><font style="vertical-align: inherit;">假設選擇BTC進行充值，選擇BTC的Deposit即可。</font></font></font></font></div><div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_q9wLM" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0Orv6wciaNSmPdQxWPHtic1SGaW2HNIjVbdkZbjSsn0ol814YbvCb6viaibrCA/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0Orv6wciaNSmPdQxWPHtic1SGaW2HNIjVbdkZbjSsn0ol814YbvCb6viaibrCA/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" _load="1" width="640" height="342" style=""></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 生成地址的界面</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3.對生成的地址進行充值即可。</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_A70Qu" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvIyWjUnickTnh8xWLR7usV5Y2SRlEeE7SznE5QZ4nxx5dxEBVLXOQXibw/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvIyWjUnickTnh8xWLR7usV5Y2SRlEeE7SznE5QZ4nxx5dxEBVLXOQXibw/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" _load="1" width="640" height="176" style=""></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 生成充值地址</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4.選擇Withdraw即可進行提現操作。</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_xf3C3" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvGRl5DlhkFfUbVhwhMYotGy5oeMmH5cXFsshF0FXtRErD8kLsMiccTJg/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvGRl5DlhkFfUbVhwhMYotGy5oeMmH5cXFsshF0FXtRErD8kLsMiccTJg/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" _load="1" width="640" height="187" style=""></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 轉出界面</font></font></font></font></div><div align="left"><font color="#333333"><font size="2"><br>
+</font></font></div><div align="left"><font color="#333333"><font size="2"><br>
+</font></font></div><div align="left"><font color="#333333"><font size="2"><br>
+</font></font></div><strong><font size="5"><font color="#2e8b57"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">交易</font></font></font></font></strong><div align="left"><font style="font-size:15px"><font color="#333333"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">P網也提供了三種交易，</font></font></font><font color="#8b0000"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">這三種交易也分別對應三個獨立的錢包</font></font></font><font color="#333333"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，選擇不同的交易之前，必須往該交易賬戶轉入一定的金額才能進行。</font></font></font></font></div><br>
+<blockquote><div align="left"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EXCHANGE：普通交易，設定價格進行買賣</font></font><br>
+</div><br>
+<div align="left"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MARGIN TRADING：保證金交易，也稱為槓桿交易，風險較高</font></font></div><br>
+<div align="left"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LENDING：借款交易，設定一定的利率、時間和金額進行放款</font></font></div></blockquote><div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1.點擊左上角“EXCHANGE”按鈕，即可進入交易市場界面。</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_pL9xQ" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvaZTzSClaoGRgz6875a2zLJx2YVwl94QDMniaNdbCywJU3Tg7UUjqZOQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvaZTzSClaoGRgz6875a2zLJx2YVwl94QDMniaNdbCywJU3Tg7UUjqZOQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" _load="1" width="640" height="909" style=""></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 右側交易市場界面</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.選擇交易的幣種即可進入交易界面。</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_tlLeJ" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrveS09PxibviakYT8eNCbjfcMhajuibo7orra4ibpibZicebekzMOjPodCdABQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrveS09PxibviakYT8eNCbjfcMhajuibo7orra4ibpibZicebekzMOjPodCdABQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" _load="1" width="640" height="186" style=""></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 交易界面</font></font></font></font></div><br>
+<div align="left"><font style="font-size:15px"><font color="#333333"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3.保證金交易界面跟交易界面基本一致，</font></font></font><font color="#8b0000"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">只是增加了槓桿，風險很高，新手慎入</font></font></font><font color="#333333"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，不再贅述。</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4.放款類似於借助平台進行放款，由平台擔保借款的安全性，相對安全。</font></font></font></font></div><br>
+<div align="left"><font color="#333333"><font style="font-size:15px"><img id="aimg_Z9D6n" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvKHq5WRw1e3agVgSibm872Vus8an8GzUkibZzRASabdwic7QkhnZOmibibDQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" src="https://mmbiz.qpic.cn/mmbiz_png/1xcjsjtsywKsyqKjHntl4J62hs1E0OrvKHq5WRw1e3agVgSibm872Vus8an8GzUkibZzRASabdwic7QkhnZOmibibDQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" lazyloaded="true" _load="1" width="640" height="346" style=""></font></font></div><div align="left"><font color="#333333"><font size="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 放款界面</font></font></font></font></div></font><br>
+<br>
+<br>
+</td></tr></tbody></table>
+</div>
+來源:http://8btc.com/thread-74608-1-1.html
