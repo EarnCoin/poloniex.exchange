@@ -1,6 +1,5 @@
 # bitpoint 幣寶
-
-
+<section>
 				<div class="row">
 					<div class="col col-xs-12">
 						<h3>現貨交易</h3>
@@ -42,7 +41,7 @@
 							</tr>
 						</tbody></table>			
 			</div>
-			
+</section>		
 			<div class="container">
 				<div class="row">
 					<div class="col col-xs-12">
